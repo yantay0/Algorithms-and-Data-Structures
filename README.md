@@ -4,8 +4,7 @@ Algorithms-and-Data-Structures course
 Topics covered:
 
 Lab - 1. 
-Prime factorization
-Stack, Queue, Deque
+Prime factorization, Stack, Queue, Deque
 
 Lab - 2. 
 Linked lists, Doubly-Linked lists
@@ -26,15 +25,13 @@ Lab - 7.
 Merge Sort
 
 Lab - 8. 
-Hash tables
-Rabin-Karp algorithm based on hash calculation
+Hash tables, Rabin-Karp algorithm based on hash calculation
 
 Lab - 9. 
 Knuth-Morris-Pratt algorithm
 
 Lab - 10. 
-Adjacency list and matrixEdge list
-BFS
+Adjacency list and matrixEdge list, BFS
 
 Lab - 11. 
 DFS, Topological Sort
